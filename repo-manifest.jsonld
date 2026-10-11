@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/django-celery/commit/3b6335d14fd05506391119175406634668d72062",
       "git:hexsha": "3b6335d14fd05506391119175406634668d72062",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/celery/django-celery/commit/3afd560183307f0c824b819d53adb53127906395",
